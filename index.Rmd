@@ -1,0 +1,17 @@
+# JHUDSL App Lab - Spring 2017
+
+## Instructors
+
+- Jeff Leek
+- John Muschelli
+- Sean Kross
+
+## Resources
+
+### Books
+
+- [Developing Data Products](http://seankross.com/developing-data-products/)
+
+### Guides
+
+- [How to build a flexdashboard](http://lenkiefer.com/2017/01/22/build-flex)
