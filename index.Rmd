@@ -31,17 +31,19 @@ To see some examples of apps we will be building check out our [gallery](http://
 
 ### Meeting Times
 
-4pm - 5pm EST Wednesday & Friday
+- 4pm - 5pm EST Wednesday & Friday
+- March 8th - May 19th
+- No class on March 22 or 24
 
-### Location
+## [Discussion Forums]((https://www.reddit.com/r/jhudatascience/))
 
-FastForward 1812 Ashland Ave
+### Sign-up Instructions
 
-## Discussion Forums
-
-- On [Reddit](https://www.reddit.com/r/jhudatascience/)
-- Click "Message the Moderators" and tell us your name so we can invite you
-to the course subreddit.
+1. In the upper right-hand corner click "sign up" to create an account if you
+don't already have one.
+2. Go to [our subreddit](https://www.reddit.com/r/jhudatascience/) and then
+click "Message the Moderators." Tell us your name, email address, and JHED in
+the message so we can give you access.
 
 ## Resources
 
