@@ -35,7 +35,7 @@ To see some examples of apps we will be building check out our [gallery](http://
 - March 8th - May 19th
 - No class on March 22 or 24
 
-## [Discussion Forums]((https://www.reddit.com/r/jhudatascience/))
+## [Discussion Forums](https://www.reddit.com/r/jhudatascience/)
 
 ### Sign-up Instructions
 
