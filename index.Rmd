@@ -39,9 +39,10 @@ To see some examples of apps we will be building check out our [gallery](http://
 
 ### Sign-up Instructions
 
-1. In the upper right-hand corner click "sign up" to create an account if you
+1. Go to https://www.reddit.com/
+2. In the upper right-hand corner click "sign up" to create an account if you
 don't already have one.
-2. Go to [our subreddit](https://www.reddit.com/r/jhudatascience/) and then
+3. Go to [our subreddit](https://www.reddit.com/r/jhudatascience/) and then
 click "Message the Moderators." Tell us your name, email address, and JHED in
 the message so we can give you access.
 
