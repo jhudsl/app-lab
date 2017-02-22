@@ -48,13 +48,35 @@ don't already have one.
 click "Message the Moderators." Tell us your name, email address, and JHED in
 the message so we can give you access.
 
-## Resources
+## Resources For...
 
-### Books
+### Making Webpages
 
-- [The Unix Workbench](http://seankross.com/the-unix-workbench/)
-- [Developing Data Products](http://seankross.com/developing-data-products/)
+- [Make a simple static site](http://rmarkdown.rstudio.com/rmarkdown_websites.html)
+- [Add carosels, tooltips, popovers](https://ijlyttle.github.io/bsplus/index.html)
 
-### Guides
+### Building Shiny Apps
 
-- [How to build a flexdashboard](http://lenkiefer.com/2017/01/22/build-flex)
+- [Have users sign in with Google](https://lesliemyint.wordpress.com/2017/01/01/creating-a-shiny-app-with-google-login/)
+- [Send and receieve text messages](https://github.com/seankross/twilio)
+- [Build a dashboard](http://lenkiefer.com/2017/01/22/build-flex)
+- [Make your app HIPAA compliant by using Google services](https://static.googleusercontent.com/media/gsuite.google.com/en//terms/2015/1/hipaa_implementation_guide.pdf)
+- [Take payments from credit and debit cards](https://github.com/MarkEdmondson1234/stripeR)
+- [Show and hide elements, interface with Javascript](https://github.com/daattali/shinyjs)
+- [Use Google Sheets to store and retrieve data](https://github.com/jennybc/googlesheets/tree/master/inst/shiny-examples)
+
+### Developing R Packages
+
+- [Writing an R package from scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
+- [Build an R package (Book Chapter)](https://bookdown.org/rdpeng/RProgDA/building-r-packages.html)
+
+### Using Algorithms & Methods
+
+- [Machine Learning](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
+
+### Reference Books
+
+- [The Unix Workbench](http://seankross.com/the-unix-workbench/) - Basics of
+Unix, the command line, Git and GitHub.
+- [Developing Data Products](https://datasciencespecialization.github.io/Developing_Data_Products/) - Shiny app examples, interactive graphics, making maps.
+- [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) - R programming, building packages, making custom visualizations.
