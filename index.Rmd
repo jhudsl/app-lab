@@ -48,6 +48,12 @@ don't already have one.
 click "Message the Moderators." Tell us your name, email address, and JHED in
 the message so we can give you access.
 
+## Course Materials
+
+| Week/Lecture  | Lecture  |  Video | Notes | Code |
+|:------------|:------------|:------------|:------------|:------------|
+| 1/1 | Welcome | [YouTube]() | [Google Slides](https://docs.google.com/presentation/d/1GmvPdhzf2SA3kUvxy1UDtucBPUXogWtQ5bUlKID5Nx0/edit?usp=sharing) | --- |
+
 ## Resources For...
 
 ### Making Webpages
