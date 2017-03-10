@@ -53,6 +53,7 @@ the message so we can give you access.
 | Week/Lecture  | Lecture  |  Video | Notes | Code |
 |:------------|:------------|:------------|:------------|:------------|
 | 1/1 | Welcome | [YouTube]() | [Google Slides](https://docs.google.com/presentation/d/1GmvPdhzf2SA3kUvxy1UDtucBPUXogWtQ5bUlKID5Nx0/edit?usp=sharing) | --- |
+|1/2 | Some background tools | [Youtube]() | [Google Slides](https://docs.google.com/presentation/d/1s-z3FuEmIwgJfHCEr2wKKLXnetPHpxs8avRmmTL5hwo/edit?usp=sharing)| --- | 
 
 ## Resources For...
 
