@@ -52,8 +52,9 @@ the message so we can give you access.
 
 | Week/Lecture  | Lecture  |  Video | Notes | Code |
 |:------------|:------------|:------------|:------------|:------------|
-| 1/1 | Welcome | [YouTube]() | [Google Slides](https://docs.google.com/presentation/d/1GmvPdhzf2SA3kUvxy1UDtucBPUXogWtQ5bUlKID5Nx0/edit?usp=sharing) | --- |
-|1/2 | Some background tools | [Youtube]() | [Google Slides](https://docs.google.com/presentation/d/1s-z3FuEmIwgJfHCEr2wKKLXnetPHpxs8avRmmTL5hwo/edit?usp=sharing)| --- | 
+| 1/1 | Welcome | Part [1](https://youtu.be/dVRXe93Oyzg) [2](https://youtu.be/AHkQ4-tevOA) [3](https://youtu.be/3TOMtCqwVmA) | [Google Slides](https://docs.google.com/presentation/d/1GmvPdhzf2SA3kUvxy1UDtucBPUXogWtQ5bUlKID5Nx0/edit?usp=sharing) | --- |
+| 1/2 | Some background tools | [Youtube]() | [Google Slides](https://docs.google.com/presentation/d/1s-z3FuEmIwgJfHCEr2wKKLXnetPHpxs8avRmmTL5hwo/edit?usp=sharing)| --- | 
+| 2/1 | Shiny | [Youtube]() | Part [1](https://datasciencespecialization.github.io/Developing_Data_Products/Shiny_Part_1/Shiny_Part_1.html) [2](https://datasciencespecialization.github.io/Developing_Data_Products/Shiny_Part_2/Shiny_Part_2.html) | [App Examples](shiny.html) | 
 
 ## Resources For...
 
