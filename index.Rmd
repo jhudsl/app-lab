@@ -55,7 +55,7 @@ the message so we can give you access.
 | 1/1 | Welcome | [Google Video](https://drive.google.com/file/d/0B07kTBXc1TG1LWtFQlFPSk5xaDg/view?usp=sharing) | [Google Slides](https://docs.google.com/presentation/d/1GmvPdhzf2SA3kUvxy1UDtucBPUXogWtQ5bUlKID5Nx0/edit?usp=sharing) | --- |
 | 1/2 | Some background tools | [Google Video](https://drive.google.com/file/d/0B07kTBXc1TG1aWZyeC1rVjJLUXM/view?usp=sharing) | [Google Slides](https://docs.google.com/presentation/d/1s-z3FuEmIwgJfHCEr2wKKLXnetPHpxs8avRmmTL5hwo/edit?usp=sharing)| --- | 
 | 2/1 | Shiny | [Google Video](https://drive.google.com/file/d/0B07kTBXc1TG1Mi1ZQkRHRWJEbHM/view?usp=sharing) | Part [1](https://datasciencespecialization.github.io/Developing_Data_Products/Shiny_Part_1/Shiny_Part_1.html) [2](https://datasciencespecialization.github.io/Developing_Data_Products/Shiny_Part_2/Shiny_Part_2.html) | [App Examples](shiny.html) | 
-| 2/2 | Shiny | [Google Video]() | [App Diagram](https://docs.google.com/drawings/d/1cFWCMyqRFvE1p1VcU_7VljG1JmnuxjcovSxbExbkM1w/edit?usp=sharing) | [GitHub](https://github.com/seankross/simple-text) | 
+| 2/2 | Shiny | [Google Video](https://drive.google.com/file/d/0B07kTBXc1TG1czFoUndzdDc4NlU/view?usp=sharing) | [App Diagram](https://docs.google.com/drawings/d/1cFWCMyqRFvE1p1VcU_7VljG1JmnuxjcovSxbExbkM1w/edit?usp=sharing) | [GitHub](https://github.com/seankross/simple-text) | 
 
 ## Resources For...
 
